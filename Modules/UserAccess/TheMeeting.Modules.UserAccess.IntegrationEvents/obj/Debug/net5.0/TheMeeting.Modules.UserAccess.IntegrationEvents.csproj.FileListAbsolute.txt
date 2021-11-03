@@ -1,0 +1,15 @@
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/bin/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.deps.json
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/bin/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/bin/Debug/net5.0/ref/TheMeeting.Modules.UserAccess.IntegrationEvents.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/bin/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Infrastructure.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Infrastructure.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj.AssemblyReference.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.AssemblyInfoInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.AssemblyInfo.cs
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj.CoreCompileInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj.CopyComplete
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/ref/TheMeeting.Modules.UserAccess.IntegrationEvents.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.IntegrationEvents.pdb

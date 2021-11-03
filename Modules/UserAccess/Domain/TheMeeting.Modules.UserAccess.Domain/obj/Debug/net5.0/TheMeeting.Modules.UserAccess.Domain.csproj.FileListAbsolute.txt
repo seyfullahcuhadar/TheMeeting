@@ -1,0 +1,15 @@
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/bin/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.deps.json
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/bin/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/bin/Debug/net5.0/ref/TheMeeting.Modules.UserAccess.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/bin/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.csproj.AssemblyReference.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.AssemblyInfoInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.AssemblyInfo.cs
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.csproj.CoreCompileInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.csproj.CopyComplete
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/ref/TheMeeting.Modules.UserAccess.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/Debug/net5.0/TheMeeting.Modules.UserAccess.Domain.pdb

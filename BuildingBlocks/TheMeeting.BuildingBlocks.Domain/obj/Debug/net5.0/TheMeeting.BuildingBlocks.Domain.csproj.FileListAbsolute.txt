@@ -1,0 +1,12 @@
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.deps.json
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/bin/Debug/net5.0/ref/TheMeeting.BuildingBlocks.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.csproj.AssemblyReference.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.AssemblyInfoInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.AssemblyInfo.cs
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.csproj.CoreCompileInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/ref/TheMeeting.BuildingBlocks.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.pdb

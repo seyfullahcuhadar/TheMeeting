@@ -1,0 +1,539 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Infrastructure/TheMeeting.Modules.UserAccess.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj",
+        "projectName": "TheMeeting.BuildingBlocks.Application",
+        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj",
+        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
+        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj",
+        "projectName": "TheMeeting.BuildingBlocks.Domain",
+        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj",
+        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
+        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj",
+        "projectName": "TheMeeting.BuildingBlocks.Infrastructure",
+        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj",
+        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
+        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj"
+              },
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj",
+        "projectName": "TheMeeting.Modules.UserAccess.Domain",
+        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj",
+        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
+        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/TheMeeting.Modules.UserAccess.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/TheMeeting.Modules.UserAccess.Application.csproj",
+        "projectName": "TheMeeting.Modules.UserAccess.Application",
+        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/TheMeeting.Modules.UserAccess.Application.csproj",
+        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
+        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj"
+              },
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj"
+              },
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj"
+              },
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Formatting.Compact": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Infrastructure/TheMeeting.Modules.UserAccess.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Infrastructure/TheMeeting.Modules.UserAccess.Infrastructure.csproj",
+        "projectName": "TheMeeting.Modules.UserAccess.Infrastructure",
+        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Infrastructure/TheMeeting.Modules.UserAccess.Infrastructure.csproj",
+        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
+        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj"
+              },
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj"
+              },
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj"
+              },
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/TheMeeting.Modules.UserAccess.Application.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/TheMeeting.Modules.UserAccess.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj",
+        "projectName": "TheMeeting.Modules.UserAccess.IntegrationEvents",
+        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj",
+        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
+        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
+                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

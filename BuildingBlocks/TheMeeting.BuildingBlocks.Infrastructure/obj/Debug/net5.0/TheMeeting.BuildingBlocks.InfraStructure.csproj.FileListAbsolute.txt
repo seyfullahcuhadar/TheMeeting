@@ -1,0 +1,12 @@
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.InfraStructure/bin/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.deps.json
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/bin/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.InfraStructure/bin/Debug/net5.0/ref/TheMeeting.BuildingBlocks.InfraStructure.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/bin/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.csproj.AssemblyReference.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.AssemblyInfoInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.AssemblyInfo.cs
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.csproj.CoreCompileInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/ref/TheMeeting.BuildingBlocks.InfraStructure.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.pdb

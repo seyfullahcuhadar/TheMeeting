@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dgBDEkNr62odPNUlrODq+BojVd3KZYfeNX/rEpbPlQB3sMDih6GLqV/JsVPG/IxmAgT9q5H2Fn+7Wfpjn/uRA==",
+  "success": true,
+  "projectFilePath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/seyfullahcuhadar/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

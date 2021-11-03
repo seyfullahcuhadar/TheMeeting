@@ -1,0 +1,15 @@
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Application.deps.json
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Application.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/bin/Debug/net5.0/ref/TheMeeting.BuildingBlocks.Application.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Application.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.csproj.AssemblyReference.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.AssemblyInfoInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.AssemblyInfo.cs
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.csproj.CoreCompileInputs.cache
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.csproj.CopyComplete
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/ref/TheMeeting.BuildingBlocks.Application.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Application.pdb
