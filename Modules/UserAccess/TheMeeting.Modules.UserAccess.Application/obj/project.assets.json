@@ -4871,41 +4871,47 @@
     ]
   },
   "packageFolders": {
-    "/Users/seyfullahcuhadar/.nuget/packages/": {}
+    "C:\\Users\\Cuhadar\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/TheMeeting.Modules.UserAccess.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.Application\\TheMeeting.Modules.UserAccess.Application.csproj",
       "projectName": "TheMeeting.Modules.UserAccess.Application",
-      "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/TheMeeting.Modules.UserAccess.Application.csproj",
-      "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
-      "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.Application/obj/",
+      "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.Application\\TheMeeting.Modules.UserAccess.Application.csproj",
+      "packagesPath": "C:\\Users\\Cuhadar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Cuhadar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
-              "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj"
+            "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\TheMeeting.BuildingBlocks.Application.csproj": {
+              "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\TheMeeting.BuildingBlocks.Application.csproj"
             },
-            "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
-              "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj"
+            "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\TheMeeting.BuildingBlocks.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\TheMeeting.BuildingBlocks.Infrastructure.csproj"
             },
-            "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj": {
-              "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj"
+            "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\Domain\\TheMeeting.Modules.UserAccess.Domain\\TheMeeting.Modules.UserAccess.Domain.csproj": {
+              "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\Domain\\TheMeeting.Modules.UserAccess.Domain\\TheMeeting.Modules.UserAccess.Domain.csproj"
             },
-            "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {
-              "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj"
+            "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.IntegrationEvents\\TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {
+              "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.IntegrationEvents\\TheMeeting.Modules.UserAccess.IntegrationEvents.csproj"
             }
           }
         }
@@ -4980,14 +4986,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
