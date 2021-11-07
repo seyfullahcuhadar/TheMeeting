@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMeeting.Modules.UserAcce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMeeting.Modules.UserAccess.Infrastructure", "Modules\UserAccess\TheMeeting.Modules.UserAccess.Infrastructure\TheMeeting.Modules.UserAccess.Infrastructure.csproj", "{CE02E626-5D72-44D8-95EC-2999DBEE0C54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMeeting.BuildingBlocks.EventBus", "BuildingBlocks\TheMeeting.BuildingBlocks.EventBus\TheMeeting.BuildingBlocks.EventBus.csproj", "{650559E8-750F-413F-B804-31E6C0FC149C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,7 @@ Global
 		{E6792172-C7D1-4299-89B8-F68CD9FA9B09} = {D76976B0-761C-4672-9678-224FA45C4FD0}
 		{2D7B8841-A122-4628-9A6C-86AEA3EF0342} = {A32AC9D8-9CED-4962-9E03-33B21A55F4D8}
 		{CE02E626-5D72-44D8-95EC-2999DBEE0C54} = {A32AC9D8-9CED-4962-9E03-33B21A55F4D8}
+		{650559E8-750F-413F-B804-31E6C0FC149C} = {D76976B0-761C-4672-9678-224FA45C4FD0}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2135FC64-27E1-4362-81FC-5099A145FA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -77,5 +80,9 @@ Global
 		{CE02E626-5D72-44D8-95EC-2999DBEE0C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE02E626-5D72-44D8-95EC-2999DBEE0C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE02E626-5D72-44D8-95EC-2999DBEE0C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650559E8-750F-413F-B804-31E6C0FC149C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650559E8-750F-413F-B804-31E6C0FC149C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650559E8-750F-413F-B804-31E6C0FC149C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650559E8-750F-413F-B804-31E6C0FC149C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

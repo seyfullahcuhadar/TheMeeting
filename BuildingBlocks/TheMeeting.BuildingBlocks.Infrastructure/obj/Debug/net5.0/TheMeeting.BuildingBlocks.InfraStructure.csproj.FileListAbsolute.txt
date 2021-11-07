@@ -10,3 +10,8 @@
 /Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.dll
 /Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/ref/TheMeeting.BuildingBlocks.InfraStructure.dll
 /Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.InfraStructure.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Application.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.dll
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Application.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/bin/Debug/net5.0/TheMeeting.BuildingBlocks.Domain.pdb
+/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/Debug/net5.0/TheMeeting.BuildingBlocks.Infrastructure.csproj.CopyComplete

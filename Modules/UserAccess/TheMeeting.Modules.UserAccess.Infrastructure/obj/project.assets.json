@@ -1995,6 +1995,19 @@
           "bin/placeholder/TheMeeting.BuildingBlocks.Domain.dll": {}
         }
       },
+      "TheMeeting.BuildingBlocks.EventBus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "TheMeeting.BuildingBlocks.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TheMeeting.BuildingBlocks.EventBus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TheMeeting.BuildingBlocks.EventBus.dll": {}
+        }
+      },
       "TheMeeting.BuildingBlocks.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -7087,6 +7100,11 @@
       "path": "../../../BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj",
       "msbuildProject": "../../../BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj"
     },
+    "TheMeeting.BuildingBlocks.EventBus/1.0.0": {
+      "type": "project",
+      "path": "../../../BuildingBlocks/TheMeeting.BuildingBlocks.EventBus/TheMeeting.BuildingBlocks.EventBus.csproj",
+      "msbuildProject": "../../../BuildingBlocks/TheMeeting.BuildingBlocks.EventBus/TheMeeting.BuildingBlocks.EventBus.csproj"
+    },
     "TheMeeting.BuildingBlocks.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../../../BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj",
@@ -7111,11 +7129,14 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Autofac >= 6.3.0",
+      "MediatR >= 9.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.11",
       "Polly >= 7.2.2",
+      "Serilog >= 2.10.0",
       "StyleCop.Analyzers >= 1.1.118",
       "TheMeeting.BuildingBlocks.Application >= 1.0.0",
+      "TheMeeting.BuildingBlocks.EventBus >= 1.0.0",
       "TheMeeting.BuildingBlocks.Infrastructure >= 1.0.0",
       "TheMeeting.Modules.UserAccess.Application >= 1.0.0",
       "TheMeeting.Modules.UserAccess.Domain >= 1.0.0"
@@ -7149,6 +7170,9 @@
             "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
               "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj"
             },
+            "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.EventBus/TheMeeting.BuildingBlocks.EventBus.csproj": {
+              "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.EventBus/TheMeeting.BuildingBlocks.EventBus.csproj"
+            },
             "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
               "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj"
             },
@@ -7175,6 +7199,10 @@
             "target": "Package",
             "version": "[6.3.0, )"
           },
+          "MediatR": {
+            "target": "Package",
+            "version": "[9.0.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.11, )"
@@ -7186,6 +7214,10 @@
           "Polly": {
             "target": "Package",
             "version": "[7.2.2, )"
+          },
+          "Serilog": {
+            "target": "Package",
+            "version": "[2.10.0, )"
           },
           "StyleCop.Analyzers": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

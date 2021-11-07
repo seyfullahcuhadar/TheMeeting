@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using Autofac.Core.Activators.Reflection;
 
-namespace TheMeeting.Modules.UserAccess.Infrastructure.Configuration.DataAccess
+namespace TheMeeting.Modules.UserAccess.Infrastructure.Configuration
 {
     internal class AllConstructorFinder : IConstructorFinder
     {
