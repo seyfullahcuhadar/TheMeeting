@@ -1,33 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {}
+    "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.IntegrationEvents\\TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {}
   },
   "projects": {
-    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
+    "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\TheMeeting.BuildingBlocks.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\TheMeeting.BuildingBlocks.Application.csproj",
         "projectName": "TheMeeting.BuildingBlocks.Application",
-        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj",
-        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
-        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/obj/",
+        "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\TheMeeting.BuildingBlocks.Application.csproj",
+        "packagesPath": "C:\\Users\\Cuhadar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Cuhadar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj": {
-                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj"
+              "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj": {
+                "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj"
               }
             }
           }
@@ -56,26 +61,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj": {
+    "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj",
         "projectName": "TheMeeting.BuildingBlocks.Domain",
-        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj",
-        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
-        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/obj/",
+        "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj",
+        "packagesPath": "C:\\Users\\Cuhadar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Cuhadar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,37 +124,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
+    "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\TheMeeting.BuildingBlocks.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\TheMeeting.BuildingBlocks.Infrastructure.csproj",
         "projectName": "TheMeeting.BuildingBlocks.Infrastructure",
-        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj",
-        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
-        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\TheMeeting.BuildingBlocks.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Cuhadar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Cuhadar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj": {
-                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Application/TheMeeting.BuildingBlocks.Application.csproj"
+              "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\TheMeeting.BuildingBlocks.Application.csproj": {
+                "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Application\\TheMeeting.BuildingBlocks.Application.csproj"
               },
-              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj": {
-                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj"
+              "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj": {
+                "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj"
               }
             }
           }
@@ -209,34 +224,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {
+    "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.IntegrationEvents\\TheMeeting.Modules.UserAccess.IntegrationEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj",
+        "projectUniqueName": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.IntegrationEvents\\TheMeeting.Modules.UserAccess.IntegrationEvents.csproj",
         "projectName": "TheMeeting.Modules.UserAccess.IntegrationEvents",
-        "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/TheMeeting.Modules.UserAccess.IntegrationEvents.csproj",
-        "packagesPath": "/Users/seyfullahcuhadar/.nuget/packages/",
-        "outputPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/TheMeeting.Modules.UserAccess.IntegrationEvents/obj/",
+        "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.IntegrationEvents\\TheMeeting.Modules.UserAccess.IntegrationEvents.csproj",
+        "packagesPath": "C:\\Users\\Cuhadar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\TheMeeting.Modules.UserAccess.IntegrationEvents\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/seyfullahcuhadar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Cuhadar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj": {
-                "projectPath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Infrastructure/TheMeeting.BuildingBlocks.Infrastructure.csproj"
+              "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\TheMeeting.BuildingBlocks.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Infrastructure\\TheMeeting.BuildingBlocks.Infrastructure.csproj"
               }
             }
           }
@@ -265,7 +285,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

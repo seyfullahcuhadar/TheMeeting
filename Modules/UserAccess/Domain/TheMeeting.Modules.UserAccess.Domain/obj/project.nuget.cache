@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LtkDcNJQD9C/zd5OwoO5ayL3bkQkNjKRJe5rjo3A+dzmjZGc6jV2nVj9QzBChMC7j5hEUFilxNf8QPmy+Xc8Fg==",
+  "dgSpecHash": "/H9hsrhZvev7J9NV37/VX0N8Kbjql/8hNyMowf1Y6HYr8KBfNMBhHeD/jLj4sQ+RIJltawRMnRBZNrJ/3LL+yw==",
   "success": true,
-  "projectFilePath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/Modules/UserAccess/Domain/TheMeeting.Modules.UserAccess.Domain/TheMeeting.Modules.UserAccess.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\Modules\\UserAccess\\Domain\\TheMeeting.Modules.UserAccess.Domain\\TheMeeting.Modules.UserAccess.Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/seyfullahcuhadar/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+    "C:\\Users\\Cuhadar\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

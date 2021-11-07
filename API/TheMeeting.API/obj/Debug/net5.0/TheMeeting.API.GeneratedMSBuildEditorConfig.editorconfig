@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TheMeeting.API
-build_property.ProjectDir = /Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/API/TheMeeting.API/
+build_property.ProjectDir = C:\Users\Cuhadar\source\repos\seyfullahcuhadar\TheMeeting\API\TheMeeting.API\

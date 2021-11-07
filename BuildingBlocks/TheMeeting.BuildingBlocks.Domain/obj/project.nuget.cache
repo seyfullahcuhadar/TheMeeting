@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6dgBDEkNr62odPNUlrODq+BojVd3KZYfeNX/rEpbPlQB3sMDih6GLqV/JsVPG/IxmAgT9q5H2Fn+7Wfpjn/uRA==",
+  "dgSpecHash": "kyyCaopXyZZBYWSlLdYF34VeN5LCm4l6lISr2O9nYB+EbCcVQSEyrUPo/RazXEtnGde+E/+GQq6jFg4SrzJWhg==",
   "success": true,
-  "projectFilePath": "/Users/seyfullahcuhadar/RiderProjects/TheMeeting/src/BuildingBlocks/TheMeeting.BuildingBlocks.Domain/TheMeeting.BuildingBlocks.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Cuhadar\\source\\repos\\seyfullahcuhadar\\TheMeeting\\BuildingBlocks\\TheMeeting.BuildingBlocks.Domain\\TheMeeting.BuildingBlocks.Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/seyfullahcuhadar/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+    "C:\\Users\\Cuhadar\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
